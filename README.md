@@ -1,11 +1,9 @@
 # mikeranger67.github.io
 
-Name: 
+Name: mikeranger67.github.io
 
-Description: 
+Description: Portfolio created for MIT Coding Bootcamp
 
-Usage: 
+Usage: Showcase work
 
-Support: 
-
-Roadmap: 
+Roadmap: Completed as the course goes on
